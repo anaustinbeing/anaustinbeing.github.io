@@ -383,6 +383,12 @@ section .container {
   color: #2a78ec;
 }
 
+.about-me .content h5 {
+  font-weight: 700;
+  font-size: 20px;
+  color: #2a78ec;
+}
+
 .about-me .content ul {
   list-style: none;
   padding: 0;
